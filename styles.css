@@ -39,14 +39,14 @@
     margin-top: 10ex;
 }
 
-#StoryLight, #blm_light {
+#StoryLight, #blmLight {
     font-size: 24px;
     text-align: right;
     background-color: var(--lgray);
     border-radius: 10px;
 }
 
-#StoryDark, #blm_dark {
+#StoryDark, #blmDark {
     font-size: 24px;
     text-align: right;
     background-color: var(--dgray);
